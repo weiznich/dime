@@ -14,4 +14,22 @@
 
 .hg
 
+#temp build files
 Makefile
+*.deps/
+
+config.log
+config.status
+dime.pc
+include/config.h
+include/stamp-h1
+libtool
+*.libs/
+
+dxf2vrml/dxf2vrml
+dxfsphere/dxfsphere
+
+
+CMakeCache.txt
+*CMakeFiles/
+*cmake_install.cmake
